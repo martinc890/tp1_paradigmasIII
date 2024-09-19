@@ -1,2 +1,3 @@
 pykka
+requests
 beautifulsoup4
